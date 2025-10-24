@@ -1,6 +1,11 @@
 # Z-Cyber Tools v2.0 🛡️
 Advanced Pentesting Suite by Zeeone-ofc-Grayhat
 
+#Thanks too Contributor Zcyber_Tools  
+-Haket Cyber Team
+-TypeByte Cyber
+-LexxyCode
+
 ## 🔧 Features
 - Subdomain Scanner (Sublist3r)
 - XSS Vulnerability Scanner (XSStrike) 
